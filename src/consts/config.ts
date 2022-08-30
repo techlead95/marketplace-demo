@@ -8,6 +8,6 @@ export const FIREBASE_CONFIG = {
   measurementId: "G-CD147SVBFD",
 }
 
-export const API_URL = process.env.REACT_APP_API_URL!
-export const X_API_KEY = process.env.REACT_APP_X_API_KEY!
-export const GOOGLE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY!
+export const API_URL = "https://dev-api.poochapp.com"
+export const X_API_KEY = "f9609c0c-6e70-42c3-afaf-10f64bc02b21"
+export const GOOGLE_API_KEY = "AIzaSyCWPe0Y1xqKVM4mMNqMxNYwSsmB5dsg-lk"
