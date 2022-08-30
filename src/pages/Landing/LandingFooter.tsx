@@ -89,34 +89,16 @@ export default function LandingFooter() {
 
         <div className="flex items-center mt-24 text-12 font-300">
           <div className="flex flex-1 w-2/5 gap-3">
-            <a href="javascript:;" className="hover:underline">
-              Investor Relations
-            </a>
-            |
-            <a href="javascript:;" className="hover:underline">
-              Licensing
-            </a>
-            |
-            <a href="javascript:;" className="hover:underline">
-              Privacy Policy
-            </a>
+            <div>Investor Relations</div>|<div>Licensing</div>|<div>Privacy Policy</div>
           </div>
 
           <div className="w-2/5 text-center">© 2022 POOCH TECHNOLOGIES INC © POOCHFOLIO LLC</div>
 
           <div className="flex justify-end flex-1 gap-8 text-white">
-            <a href="javascript:;">
-              <FontAwesomeIcon icon={faFacebookF} size="lg" />
-            </a>
-            <a href="javascript:;">
-              <FontAwesomeIcon icon={faYoutube} size="lg" />
-            </a>
-            <a href="javascript:;">
-              <FontAwesomeIcon icon={faInstagram} size="lg" />
-            </a>
-            <a href="javascript:;">
-              <FontAwesomeIcon icon={faLinkedin} size="lg" />
-            </a>
+            <FontAwesomeIcon icon={faFacebookF} size="lg" />
+            <FontAwesomeIcon icon={faYoutube} size="lg" />
+            <FontAwesomeIcon icon={faInstagram} size="lg" />
+            <FontAwesomeIcon icon={faLinkedin} size="lg" />
           </div>
         </div>
       </div>
