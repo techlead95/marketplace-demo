@@ -1,4 +1,4 @@
-# Marketplace Idea with React/TypeScript
+# Marketplace Example with React/TypeScript
 
 This project is deployed to [here](https://roaring-fairy-f1240d.netlify.app/).
 
