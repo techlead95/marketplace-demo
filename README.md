@@ -1,10 +1,9 @@
-# Marketplace Example using React and TypeScript
+Marketplace example with a singup flow using React.js, Next.js, TypeScript and Tailwind CSS
 
-This project is deployed to [here](https://roaring-fairy-f1240d.netlify.app/).
+#Screens
 
-## Architectural decision
-- UI components are built with [Tailwind CSS](https://tailwindcss.com/) and structured based on [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/).
-- Server state are managed by [Tanstack Query](https://tanstack.com/query/v4)
-- Forms are built and validated with [React Hook Form](https://react-hook-form.com/)
-- Authentication is based on [Firebase](https://firebase.google.com/?gclid=CjwKCAjwx7GYBhB7EiwA0d8oe7YAS3VEBmuM51HG3R-3dACeNaALlyriVZLh3MV6aOUY4heB0gS0qBoC04YQAvD_BwE&gclsrc=aw.ds)
-- Axios, React Use, Google Autocomplete, LibPhoneNumber, etc are used.
+## Dashboard
+![image](https://github.com/user-attachments/assets/c1b764c1-a2ca-43d7-b777-7b01b5cc80f0)
+
+## Signup
+![image](https://github.com/user-attachments/assets/208b14b3-3226-47d7-8d8a-33138d6e6c41)
